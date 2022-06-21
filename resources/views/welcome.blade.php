@@ -20,6 +20,7 @@
             <div class="success-text">Success!</div>
             <div class="description line-1"> Cloud DevOps Project has been successfully setup</div>
             <div class="description line-2"> Your Laravel PHP app is up and running on Cloud</div>
+            <div class="description line-3"> New DIV add here</div>
             <div class="next-steps-container">
                 <div class="next-steps-header">Next up</div>
                 <div class="next-steps-body">
